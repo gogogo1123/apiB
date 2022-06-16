@@ -10,8 +10,8 @@
 
 *{
 
-dsadsada
-
+가나다라
+ㅇㄷㅈㅇㄷㅈ
 
 font-family: 'Noto Sans KR', sans-serif;
 
