@@ -10,7 +10,7 @@
 
 *{
 
-잉~기모링
+잉~기모링123
 
 font-family: 'Noto Sans KR', sans-serif;
 
